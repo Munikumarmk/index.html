@@ -1,0 +1,17 @@
+h1{
+    border: 2px solid violet;
+    background-color: gray;
+}
+form{
+    background-color:lightblue;
+    width: 500px;
+    padding: 10px;
+    border: 2px solid green;
+    text-align: center;
+    /* justify-content: bottom; */
+
+
+}
+.head{
+    color:darkorange;
+}
